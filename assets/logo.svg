@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 166" role="img" aria-labelledby="title">
+<title id="title">Acaffe Lounge</title>
+<path d="M139 54C127 29 104 15 77 15C39 15 8 45 8 83C8 121 38 152 77 152C101 152 121 141 134 123" fill="none" stroke="#a52e30" stroke-width="4.5" stroke-linecap="round"/>
+<g fill="#29130f" stroke="#29130f">
+<path d="M77 12L126 145H138V147H99V145H112L75 39Z" stroke="none"/>
+<path d="M34 145L77 16M21 146H56M50 99H101" fill="none" stroke-width="2" stroke-linecap="square"/>
+</g>
+<g transform="translate(126 62)" fill="none" stroke="#a52e30" stroke-width="3" stroke-linecap="square" stroke-linejoin="round">
+<path d="M20 4C17 1 13 0 10 1C2 3 0 11 0 22C0 34 3 43 11 44C15 44 18 43 21 40"/>
+<path d="M27 44L40 1L53 44M31 31H49"/>
+<path d="M62 44V2H83M62 21H79"/>
+<path d="M92 44V2H113M92 21H109"/>
+<path d="M145 2H123V44H145M123 21H141"/>
+</g>
+<g transform="translate(196 126) rotate(-12)" fill="none" stroke="#806035" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M11-8C18-24 24-37 27-34C31-30 17-13 13-9C9-5 4 8 3 11C10 6 21 3 29 4"/>
+<path d="M29 1C31-9 41-11 41-5C41 2 33 13 29 10C24 7 28-3 32-5M40 3C43 2 45 0 47-3"/>
+<path d="M48-8C45-1 43 9 46 9C51 10 58-5 61-10C57 1 55 9 59 7C62 6 65 2 67-1"/>
+<path d="M70-12L64 7C68-1 77-16 80-12C82-9 74 5 77 5C81 5 85-2 87-5"/>
+<path d="M97-13C95-18 87-10 85-3C83 4 90 5 96-8L102-21C99-8 96 7 91 17C86 27 78 26 79 21C80 17 91 13 106 0"/>
+<path d="M104-4C112-6 118-17 113-18C108-19 101-7 103-2C106 5 115-4 121-12"/>
+</g></svg>
